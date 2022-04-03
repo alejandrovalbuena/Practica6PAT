@@ -19,26 +19,21 @@ curl -v -X POST http://localhost:8080/api/v1/process-step1 \
    -d '{"fullName":"Juan Antonio Brena Moral","dni":"12345678Z", "telefono":"+34 600903434"}'
 ```
 
-## Entrega
+## Practica
 
-Sube la practica solucionada a un repositorio de Github.
-y crea un documento en formato Markdown, explicando las casuisticas que se van a probar.
+Test a realizar:
+Unit test
+Test a realizar: Unit test
 
-## Criterios de evaluación
+DNI:
+* Test general para comprobar la función validar().
+TELEFONO:
+* Número internacional con y sin espacio.
+* Número completamente erróneo.
 
-- 0 -> 5
-    - Entregar en fecha
-    - Subir ejemplo a Github
-    - Ejemplo funcional
-    - Aparentemente funciona
-    - Con README
-- 5 -> 9
-    - La práctica entregada hace lo que se pide
-- 9 -> 10
-    - El alumno explora la materia y añade elementos adicionales
+A continuación he 
+Test a realizar: E2E Testing
 
-**Nota:** Si el alumno no entrega a tiempo la practica, la calificacion maxima
-sera de un 5 si el retraso es de una semana y no presentado si el retraso es major.
 
 ## References
 
