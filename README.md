@@ -1,7 +1,6 @@
 # Practica6PAT
 
-Test a realizar:
-Unit test
+Test a realizar: Unit test
 
 DNI:
 * Test general para comprobar la función validar().
@@ -15,4 +14,7 @@ TELEFONO:
 * Número internacional con y sin espacio.
 * Número completamente erróneo.
 
-A continuación he 
+Test a realizar: E2E Testing
+
+
+
