@@ -33,6 +33,7 @@ TELEFONO:
 
 A continuación he 
 Test a realizar: E2E Testing
+* Se realiza testing de ambos endpoints.
 
 
 ## References
